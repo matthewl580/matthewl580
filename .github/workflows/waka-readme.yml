@@ -1,6 +1,10 @@
 name: Waka Readme
 
 on:
+  push:
+    branches-ignore:
+      - 'dependabot/**'
+  pull_request:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
