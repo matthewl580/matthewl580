@@ -5,14 +5,10 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "*/10 ? * * *"
+    - cron: "0/10 * * * *"
 
 jobs:
   update-readme:
-    permissions:
-      contents: write
-      pull-requests: write
-      repository-projects: write
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
