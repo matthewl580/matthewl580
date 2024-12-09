@@ -18,7 +18,9 @@
 5. 🚀 Published release [Alpha Release](https://github.com/matthewl580/Sparkle/releases/tag/Releases) in [matthewl580/Sparkle](https://github.com/matthewl580/Sparkle)
 <!--END_SECTION:activity-->
 
-
+# ⏳ Time Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
