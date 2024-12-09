@@ -9,7 +9,10 @@ on:
 
 jobs:
   update-readme:
-    permissions: write-all
+    permissions:
+      contents: write
+      pull-requests: write
+      repository-projects: write
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
