@@ -11,11 +11,11 @@
 
 # 🎆 Recent Activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.1](https://github.com/matthewl580/Sparkle/releases/tag/v1.1.1) in [matthewl580/Sparkle](https://github.com/matthewl580/Sparkle)
-2. 🎉 Merged PR [#6](https://github.com/matthewl580/Sparkle/pull/6) in [matthewl580/Sparkle](https://github.com/matthewl580/Sparkle)
-3. 💪 Opened PR [#6](https://github.com/matthewl580/Sparkle/pull/6) in [matthewl580/Sparkle](https://github.com/matthewl580/Sparkle)
-4. 🚀 Published release [Beta Release](https://github.com/matthewl580/Sparkle/releases/tag/v1.0.0-beta) in [matthewl580/Sparkle](https://github.com/matthewl580/Sparkle)
-5. 🚀 Published release [Alpha Release](https://github.com/matthewl580/Sparkle/releases/tag/Releases) in [matthewl580/Sparkle](https://github.com/matthewl580/Sparkle)
+1. ❗ Opened issue [#8](https://github.com/matthewl580/Sparkle/issues/8) in [matthewl580/Sparkle](https://github.com/matthewl580/Sparkle)
+2. ❗ Opened issue [#7](https://github.com/matthewl580/Sparkle/issues/7) in [matthewl580/Sparkle](https://github.com/matthewl580/Sparkle)
+3. 🚀 Published release [v1.1.1](https://github.com/matthewl580/Sparkle/releases/tag/v1.1.1) in [matthewl580/Sparkle](https://github.com/matthewl580/Sparkle)
+4. 🎉 Merged PR [#6](https://github.com/matthewl580/Sparkle/pull/6) in [matthewl580/Sparkle](https://github.com/matthewl580/Sparkle)
+5. 💪 Opened PR [#6](https://github.com/matthewl580/Sparkle/pull/6) in [matthewl580/Sparkle](https://github.com/matthewl580/Sparkle)
 <!--END_SECTION:activity-->
 
 
