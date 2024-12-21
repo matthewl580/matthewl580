@@ -11,11 +11,11 @@
 
 # 🎆 Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/matthewl580/Spindle-Website/pull/1) in [matthewl580/Spindle-Website](https://github.com/matthewl580/Spindle-Website)
-2. 💪 Opened PR [#1](https://github.com/matthewl580/Spindle-Website/pull/1) in [matthewl580/Spindle-Website](https://github.com/matthewl580/Spindle-Website)
-3. 🚀 Published release [v.1.12](https://github.com/matthewl580/Spindle/releases/tag/v1.1.2-Beta) in [matthewl580/Spindle](https://github.com/matthewl580/Spindle)
-4. ❗ Opened issue [#8](https://github.com/matthewl580/Sparkle/issues/8) in [matthewl580/Sparkle](https://github.com/matthewl580/Sparkle)
-5. ❗ Opened issue [#7](https://github.com/matthewl580/Sparkle/issues/7) in [matthewl580/Sparkle](https://github.com/matthewl580/Sparkle)
+1. 🎉 Merged PR [#1](https://github.com/spindle-project/Website/pull/1) in [spindle-project/Website](https://github.com/spindle-project/Website)
+2. 💪 Opened PR [#1](https://github.com/spindle-project/Website/pull/1) in [spindle-project/Website](https://github.com/spindle-project/Website)
+3. 🎉 Merged PR [#1](https://github.com/matthewl580/Spindle-Website/pull/1) in [matthewl580/Spindle-Website](https://github.com/matthewl580/Spindle-Website)
+4. 💪 Opened PR [#1](https://github.com/matthewl580/Spindle-Website/pull/1) in [matthewl580/Spindle-Website](https://github.com/matthewl580/Spindle-Website)
+5. 🚀 Published release [v.1.12](https://github.com/matthewl580/Spindle/releases/tag/v1.1.2-Beta) in [matthewl580/Spindle](https://github.com/matthewl580/Spindle)
 <!--END_SECTION:activity-->
 
 
