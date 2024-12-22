@@ -11,11 +11,11 @@
 
 # 🎆 Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/spindle-project/Spindle/pull/9) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
-2. 💪 Opened PR [#9](https://github.com/spindle-project/Spindle/pull/9) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
-3. 🎉 Merged PR [#1](https://github.com/spindle-project/Website/pull/1) in [spindle-project/Website](https://github.com/spindle-project/Website)
-4. 💪 Opened PR [#1](https://github.com/spindle-project/Website/pull/1) in [spindle-project/Website](https://github.com/spindle-project/Website)
-5. 🎉 Merged PR [#1](https://github.com/matthewl580/Spindle-Website/pull/1) in [matthewl580/Spindle-Website](https://github.com/matthewl580/Spindle-Website)
+1. ❗ Opened issue [#10](https://github.com/spindle-project/Spindle/issues/10) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
+2. 🎉 Merged PR [#9](https://github.com/spindle-project/Spindle/pull/9) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
+3. 💪 Opened PR [#9](https://github.com/spindle-project/Spindle/pull/9) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
+4. 🎉 Merged PR [#1](https://github.com/spindle-project/Website/pull/1) in [spindle-project/Website](https://github.com/spindle-project/Website)
+5. 💪 Opened PR [#1](https://github.com/spindle-project/Website/pull/1) in [spindle-project/Website](https://github.com/spindle-project/Website)
 <!--END_SECTION:activity-->
 
 
