@@ -11,11 +11,11 @@
 
 # 🎆 Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14](https://github.com/spindle-project/Spindle/issues/14) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
-2. ❗ Opened issue [#13](https://github.com/spindle-project/Spindle/issues/13) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
-3. ❗ Opened issue [#12](https://github.com/spindle-project/Spindle/issues/12) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
-4. ❗ Opened issue [#11](https://github.com/spindle-project/Spindle/issues/11) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
-5. ❗ Opened issue [#339](https://github.com/sdil/open-production-web-projects/issues/339) in [sdil/open-production-web-projects](https://github.com/sdil/open-production-web-projects)
+1. 🔒 Closed issue [#8](https://github.com/spindle-project/Spindle/issues/8) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
+2. 🔒 Closed issue [#7](https://github.com/spindle-project/Spindle/issues/7) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
+3. 🔒 Closed issue [#13](https://github.com/spindle-project/Spindle/issues/13) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
+4. 🔒 Closed issue [#12](https://github.com/spindle-project/Spindle/issues/12) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
+5. ❗ Opened issue [#14](https://github.com/spindle-project/Spindle/issues/14) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
 <!--END_SECTION:activity-->
 
 
