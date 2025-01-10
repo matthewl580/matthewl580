@@ -11,11 +11,11 @@
 
 # 🎆 Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/spindle-project/Website/pull/2) in [spindle-project/Website](https://github.com/spindle-project/Website)
-2. 💪 Opened PR [#2](https://github.com/spindle-project/Website/pull/2) in [spindle-project/Website](https://github.com/spindle-project/Website)
-3. 🔒 Closed issue [#8](https://github.com/spindle-project/Spindle/issues/8) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
-4. 🔒 Closed issue [#7](https://github.com/spindle-project/Spindle/issues/7) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
-5. 🔒 Closed issue [#13](https://github.com/spindle-project/Spindle/issues/13) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
+1. ❗ Opened issue [#8](https://github.com/spindle-project/Website/issues/8) in [spindle-project/Website](https://github.com/spindle-project/Website)
+2. ❗ Opened issue [#7](https://github.com/spindle-project/Website/issues/7) in [spindle-project/Website](https://github.com/spindle-project/Website)
+3. ❗ Opened issue [#6](https://github.com/spindle-project/Website/issues/6) in [spindle-project/Website](https://github.com/spindle-project/Website)
+4. ❗ Opened issue [#5](https://github.com/spindle-project/Website/issues/5) in [spindle-project/Website](https://github.com/spindle-project/Website)
+5. ❗ Opened issue [#4](https://github.com/spindle-project/Website/issues/4) in [spindle-project/Website](https://github.com/spindle-project/Website)
 <!--END_SECTION:activity-->
 
 
