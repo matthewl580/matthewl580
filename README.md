@@ -11,11 +11,11 @@
 
 # 🎆 Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/spindle-project/Website/issues/9#issuecomment-2582693524) in [spindle-project/Website](https://github.com/spindle-project/Website)
-2. ❗ Opened issue [#17](https://github.com/spindle-project/Website/issues/17) in [spindle-project/Website](https://github.com/spindle-project/Website)
-3. ❗ Opened issue [#16](https://github.com/spindle-project/Website/issues/16) in [spindle-project/Website](https://github.com/spindle-project/Website)
-4. ❗ Opened issue [#15](https://github.com/spindle-project/Website/issues/15) in [spindle-project/Website](https://github.com/spindle-project/Website)
-5. ❗ Opened issue [#14](https://github.com/spindle-project/Website/issues/14) in [spindle-project/Website](https://github.com/spindle-project/Website)
+1. 🗣 Commented on [#5](https://github.com/spindle-project/Website/issues/5#issuecomment-2582794651) in [spindle-project/Website](https://github.com/spindle-project/Website)
+2. 🗣 Commented on [#5](https://github.com/spindle-project/Website/issues/5#issuecomment-2582792322) in [spindle-project/Website](https://github.com/spindle-project/Website)
+3. 🗣 Commented on [#5](https://github.com/spindle-project/Website/issues/5#issuecomment-2582786116) in [spindle-project/Website](https://github.com/spindle-project/Website)
+4. 🗣 Commented on [#9](https://github.com/spindle-project/Website/issues/9#issuecomment-2582693524) in [spindle-project/Website](https://github.com/spindle-project/Website)
+5. ❗ Opened issue [#17](https://github.com/spindle-project/Website/issues/17) in [spindle-project/Website](https://github.com/spindle-project/Website)
 <!--END_SECTION:activity-->
 
 
