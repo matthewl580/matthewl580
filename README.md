@@ -11,11 +11,11 @@
 
 # 🎆 Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/spindle-project/Website/pull/18) in [spindle-project/Website](https://github.com/spindle-project/Website)
-2. 💪 Opened PR [#18](https://github.com/spindle-project/Website/pull/18) in [spindle-project/Website](https://github.com/spindle-project/Website)
-3. ❗ Opened issue [#15](https://github.com/spindle-project/Spindle/issues/15) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
-4. 🗣 Commented on [#5](https://github.com/spindle-project/Website/issues/5#issuecomment-2582794651) in [spindle-project/Website](https://github.com/spindle-project/Website)
-5. 🗣 Commented on [#5](https://github.com/spindle-project/Website/issues/5#issuecomment-2582792322) in [spindle-project/Website](https://github.com/spindle-project/Website)
+1. 🎉 Merged PR [#19](https://github.com/spindle-project/Website/pull/19) in [spindle-project/Website](https://github.com/spindle-project/Website)
+2. 🗣 Commented on [#19](https://github.com/spindle-project/Website/pull/19#issuecomment-2585003302) in [spindle-project/Website](https://github.com/spindle-project/Website)
+3. 🎉 Merged PR [#18](https://github.com/spindle-project/Website/pull/18) in [spindle-project/Website](https://github.com/spindle-project/Website)
+4. 💪 Opened PR [#18](https://github.com/spindle-project/Website/pull/18) in [spindle-project/Website](https://github.com/spindle-project/Website)
+5. ❗ Opened issue [#15](https://github.com/spindle-project/Spindle/issues/15) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
 <!--END_SECTION:activity-->
 
 
