@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Sparkle, a project that aims to help AP CSP students.<br>👯 I’m looking to collaborate on anything!<br>🤝 I’m always looking for help and advice.<br>💬 Ask me about my other major projects! (Spindle and StudyWeave)<br>⚡ Fun fact: I am fully self taught. I learned though trial and error... oh, and that I hate block "coding" that doesn't teach you how to actually *program*.
+🔭 I’m currently working on Spindle, a project that aims to help AP CSP students prepare for their AP Exam, and StudyWeave, a non-invasive flashcard app meant to help learners learn anything they put their mind to.<br>👯 I’m looking to collaborate on anything!<br>🤝 I’m always looking for help and advice.<br>💬 Ask me about my other major projects! (Spindle and StudyWeave)<br>⚡ Fun fact: I am fully self taught. I learned though trial and error... oh, and that I hate block "coding" that doesn't teach you how to actually *program*.
 
 
 # 💻 Tech Stack:
