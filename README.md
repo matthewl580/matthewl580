@@ -15,11 +15,11 @@ Founder and head maintainter of [The Spindle Project](https://github.com/spindle
 
 # 🎆 Recent Activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#28](https://github.com/matthewl580/StudyWeave/issues/28) in [matthewl580/StudyWeave](https://github.com/matthewl580/StudyWeave)
-2. ❗ Opened issue [#27](https://github.com/matthewl580/StudyWeave/issues/27) in [matthewl580/StudyWeave](https://github.com/matthewl580/StudyWeave)
-3. ❗ Opened issue [#26](https://github.com/matthewl580/StudyWeave/issues/26) in [matthewl580/StudyWeave](https://github.com/matthewl580/StudyWeave)
-4. ❗ Opened issue [#25](https://github.com/matthewl580/StudyWeave/issues/25) in [matthewl580/StudyWeave](https://github.com/matthewl580/StudyWeave)
-5. ❗ Opened issue [#24](https://github.com/matthewl580/StudyWeave/issues/24) in [matthewl580/StudyWeave](https://github.com/matthewl580/StudyWeave)
+1. 🔒 Closed issue [#4](https://github.com/matthewl580/StudyWeave/issues/4) in [matthewl580/StudyWeave](https://github.com/matthewl580/StudyWeave)
+2. ❗ Opened issue [#28](https://github.com/matthewl580/StudyWeave/issues/28) in [matthewl580/StudyWeave](https://github.com/matthewl580/StudyWeave)
+3. ❗ Opened issue [#27](https://github.com/matthewl580/StudyWeave/issues/27) in [matthewl580/StudyWeave](https://github.com/matthewl580/StudyWeave)
+4. ❗ Opened issue [#26](https://github.com/matthewl580/StudyWeave/issues/26) in [matthewl580/StudyWeave](https://github.com/matthewl580/StudyWeave)
+5. ❗ Opened issue [#25](https://github.com/matthewl580/StudyWeave/issues/25) in [matthewl580/StudyWeave](https://github.com/matthewl580/StudyWeave)
 <!--END_SECTION:activity-->
 
 
