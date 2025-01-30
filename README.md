@@ -15,11 +15,11 @@ Founder and head maintainter of [The Spindle Project](https://github.com/spindle
 
 # 🎆 Recent Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/matthewl580/StudyWeave/issues/4) in [matthewl580/StudyWeave](https://github.com/matthewl580/StudyWeave)
-2. ❗ Opened issue [#28](https://github.com/matthewl580/StudyWeave/issues/28) in [matthewl580/StudyWeave](https://github.com/matthewl580/StudyWeave)
-3. ❗ Opened issue [#27](https://github.com/matthewl580/StudyWeave/issues/27) in [matthewl580/StudyWeave](https://github.com/matthewl580/StudyWeave)
-4. ❗ Opened issue [#26](https://github.com/matthewl580/StudyWeave/issues/26) in [matthewl580/StudyWeave](https://github.com/matthewl580/StudyWeave)
-5. ❗ Opened issue [#25](https://github.com/matthewl580/StudyWeave/issues/25) in [matthewl580/StudyWeave](https://github.com/matthewl580/StudyWeave)
+1. 🎉 Merged PR [#23](https://github.com/spindle-project/Website/pull/23) in [spindle-project/Website](https://github.com/spindle-project/Website)
+2. 💪 Opened PR [#23](https://github.com/spindle-project/Website/pull/23) in [spindle-project/Website](https://github.com/spindle-project/Website)
+3. 🗣 Commented on [#16](https://github.com/spindle-project/Website/issues/16#issuecomment-2623573752) in [spindle-project/Website](https://github.com/spindle-project/Website)
+4. 🔒 Closed issue [#16](https://github.com/spindle-project/Website/issues/16) in [spindle-project/Website](https://github.com/spindle-project/Website)
+5. 🔒 Closed issue [#4](https://github.com/matthewl580/StudyWeave/issues/4) in [matthewl580/StudyWeave](https://github.com/matthewl580/StudyWeave)
 <!--END_SECTION:activity-->
 
 
