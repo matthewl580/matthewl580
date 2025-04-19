@@ -15,11 +15,11 @@ Founder and head maintainter of [The Spindle Project](https://github.com/spindle
 
 # 🎆 Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/verbi-project/Verbi/pull/23) in [verbi-project/Verbi](https://github.com/verbi-project/Verbi)
-2. 💪 Opened PR [#23](https://github.com/verbi-project/Verbi/pull/23) in [verbi-project/Verbi](https://github.com/verbi-project/Verbi)
-3. 🎉 Merged PR [#22](https://github.com/verbi-project/Verbi-Website/pull/22) in [verbi-project/Verbi-Website](https://github.com/verbi-project/Verbi-Website)
-4. 💪 Opened PR [#22](https://github.com/verbi-project/Verbi-Website/pull/22) in [verbi-project/Verbi-Website](https://github.com/verbi-project/Verbi-Website)
-5. 🎉 Merged PR [#21](https://github.com/verbi-project/Verbi-Website/pull/21) in [verbi-project/Verbi-Website](https://github.com/verbi-project/Verbi-Website)
+1. 🎉 Merged PR [#24](https://github.com/verbi-project/Verbi/pull/24) in [verbi-project/Verbi](https://github.com/verbi-project/Verbi)
+2. 💪 Opened PR [#24](https://github.com/verbi-project/Verbi/pull/24) in [verbi-project/Verbi](https://github.com/verbi-project/Verbi)
+3. 🎉 Merged PR [#23](https://github.com/verbi-project/Verbi/pull/23) in [verbi-project/Verbi](https://github.com/verbi-project/Verbi)
+4. 💪 Opened PR [#23](https://github.com/verbi-project/Verbi/pull/23) in [verbi-project/Verbi](https://github.com/verbi-project/Verbi)
+5. 🎉 Merged PR [#22](https://github.com/verbi-project/Verbi-Website/pull/22) in [verbi-project/Verbi-Website](https://github.com/verbi-project/Verbi-Website)
 <!--END_SECTION:activity-->
 
 
