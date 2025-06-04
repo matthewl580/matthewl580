@@ -15,11 +15,11 @@ Founder and head maintainter of [The Spindle Project](https://github.com/spindle
 
 # 🎆 Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/spindle-project/Website/pull/33) in [spindle-project/Website](https://github.com/spindle-project/Website)
-2. 💪 Opened PR [#33](https://github.com/spindle-project/Website/pull/33) in [spindle-project/Website](https://github.com/spindle-project/Website)
-3. 🎉 Merged PR [#1](https://github.com/matthewl580/matthew-radio/pull/1) in [matthewl580/matthew-radio](https://github.com/matthewl580/matthew-radio)
-4. 💪 Opened PR [#1](https://github.com/matthewl580/matthew-radio/pull/1) in [matthewl580/matthew-radio](https://github.com/matthewl580/matthew-radio)
-5. 🎉 Merged PR [#22](https://github.com/verbi-project/Verbi-Website/pull/22) in [verbi-project/Verbi-Website](https://github.com/verbi-project/Verbi-Website)
+1. 🔒 Closed issue [#5](https://github.com/spindle-project/Website/issues/5) in [spindle-project/Website](https://github.com/spindle-project/Website)
+2. 🔒 Closed issue [#14](https://github.com/spindle-project/Website/issues/14) in [spindle-project/Website](https://github.com/spindle-project/Website)
+3. 🔒 Closed issue [#13](https://github.com/spindle-project/Website/issues/13) in [spindle-project/Website](https://github.com/spindle-project/Website)
+4. 🔒 Closed issue [#12](https://github.com/spindle-project/Website/issues/12) in [spindle-project/Website](https://github.com/spindle-project/Website)
+5. 🔒 Closed issue [#10](https://github.com/spindle-project/Website/issues/10) in [spindle-project/Website](https://github.com/spindle-project/Website)
 <!--END_SECTION:activity-->
 
 
