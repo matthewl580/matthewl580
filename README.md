@@ -15,11 +15,11 @@ Founder and head maintainter of [The Spindle Project](https://github.com/spindle
 
 # 🎆 Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/spindle-project/Website/pull/35) in [spindle-project/Website](https://github.com/spindle-project/Website)
-2. 💪 Opened PR [#35](https://github.com/spindle-project/Website/pull/35) in [spindle-project/Website](https://github.com/spindle-project/Website)
-3. 🎉 Merged PR [#1](https://github.com/spindle-project/Block-Coder/pull/1) in [spindle-project/Block-Coder](https://github.com/spindle-project/Block-Coder)
-4. 🔒 Closed issue [#5](https://github.com/spindle-project/Website/issues/5) in [spindle-project/Website](https://github.com/spindle-project/Website)
-5. 🔒 Closed issue [#14](https://github.com/spindle-project/Website/issues/14) in [spindle-project/Website](https://github.com/spindle-project/Website)
+1. 🎉 Merged PR [#36](https://github.com/spindle-project/Website/pull/36) in [spindle-project/Website](https://github.com/spindle-project/Website)
+2. 💪 Opened PR [#36](https://github.com/spindle-project/Website/pull/36) in [spindle-project/Website](https://github.com/spindle-project/Website)
+3. 🎉 Merged PR [#35](https://github.com/spindle-project/Website/pull/35) in [spindle-project/Website](https://github.com/spindle-project/Website)
+4. 💪 Opened PR [#35](https://github.com/spindle-project/Website/pull/35) in [spindle-project/Website](https://github.com/spindle-project/Website)
+5. 🎉 Merged PR [#1](https://github.com/spindle-project/Block-Coder/pull/1) in [spindle-project/Block-Coder](https://github.com/spindle-project/Block-Coder)
 <!--END_SECTION:activity-->
 
 
