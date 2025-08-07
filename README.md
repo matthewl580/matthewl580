@@ -15,11 +15,11 @@ Founder and head maintainter of [The Spindle Project](https://github.com/spindle
 
 # 🎆 Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/spindle-project/Website/pull/38) in [spindle-project/Website](https://github.com/spindle-project/Website)
-2. 💪 Opened PR [#38](https://github.com/spindle-project/Website/pull/38) in [spindle-project/Website](https://github.com/spindle-project/Website)
-3. 🚀 Published release [1.1.4 - IF EXPRESSION HOTFIX](https://github.com/spindle-project/Spindle/releases/tag/v1.1.4) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
-4. 🎉 Merged PR [#37](https://github.com/spindle-project/Website/pull/37) in [spindle-project/Website](https://github.com/spindle-project/Website)
-5. 💪 Opened PR [#37](https://github.com/spindle-project/Website/pull/37) in [spindle-project/Website](https://github.com/spindle-project/Website)
+1. 🚀 Published release [v1.1.5 Various Hotfixes](https://github.com/spindle-project/Spindle/releases/tag/v1.1.5) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
+2. 🚀 Published release [1.1.5 - HOTFIX ](https://github.com/spindle-project/Spindle/releases/tag/v1.1.5) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
+3. 🎉 Merged PR [#38](https://github.com/spindle-project/Website/pull/38) in [spindle-project/Website](https://github.com/spindle-project/Website)
+4. 💪 Opened PR [#38](https://github.com/spindle-project/Website/pull/38) in [spindle-project/Website](https://github.com/spindle-project/Website)
+5. 🚀 Published release [1.1.4 - IF EXPRESSION HOTFIX](https://github.com/spindle-project/Spindle/releases/tag/v1.1.4) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
 <!--END_SECTION:activity-->
 
 
