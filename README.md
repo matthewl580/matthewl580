@@ -15,7 +15,7 @@ Founder and head maintainter of [The Spindle Project](https://github.com/spindle
 
 # 🎆 Recent Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [matthewl580/matthew-radio](https://github.com/matthewl580/matthew-radio)
+1. 🚀 Published release [The First Cut](https://github.com/matthewl580/Chopped/releases/tag/v0.2.1) in [matthewl580/Chopped](https://github.com/matthewl580/Chopped)
 2. 🚀 Published release [1.1.5 - HOTFIX ](https://github.com/spindle-project/Spindle/releases/tag/v1.1.5) in [spindle-project/Spindle](https://github.com/spindle-project/Spindle)
 3. 🎉 Merged PR [#38](https://github.com/spindle-project/Website/pull/38) in [spindle-project/Website](https://github.com/spindle-project/Website)
 4. 💪 Opened PR [#38](https://github.com/spindle-project/Website/pull/38) in [spindle-project/Website](https://github.com/spindle-project/Website)
